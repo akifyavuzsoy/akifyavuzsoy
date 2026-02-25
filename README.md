@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akifyavuzsoy&label=Profile%20views&color=0e75b6&style=flat" alt="akifyavuzsoy" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akifyavuzsoy&theme=flat" alt="akifyavuzsoy" /></a>
 </p>
 
 ---
@@ -34,13 +33,6 @@ I am a dedicated **Mechatronics Engineer** with a deep passion for **Embedded Sy
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akifyavuzsoy&show_icons=true&theme=tokyonight" alt="akifyavuzsoy's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifyavuzsoy&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
----
 
 ### 🎓 Education:
 - 🎓 **M.Sc. in Mechatronics Engineering**, Kocaeli University (Ongoing - GPA: 3.34)
